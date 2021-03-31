@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PuzzleActivity"
+
+    >
+
+    <ImageView
+        android:id="@+id/img_empty"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginLeft="44dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="44dp"
+        android:layout_marginRight="44dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/heart"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_check"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/r12" />
+
+    <ImageView
+        android:id="@+id/img_full"
+        android:layout_width="384dp"
+        android:layout_height="448dp"
+        android:layout_marginTop="11dp"
+        android:background="@drawable/heartansw"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/r4"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Testeaza-ti cunostinetele despre anatomia inimii!"
+        android:textColor="@android:color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="1. Completeaza corect componenta specificata de numar"
+        android:textColor="@android:color/black"
+        app:layout_constraintBottom_toTopOf="@+id/t3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/t3" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:gravity="center"
+        android:text="2. Dupa ce ati completat verificati daca este corect apasand pe butonul check"
+        android:textColor="@android:color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+    <TextView
+        android:id="@+id/t3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        app:layout_constraintStart_toEndOf="@+id/r1"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <EditText
+        android:id="@+id/r4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="Componenta 4"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        app:layout_constraintStart_toStartOf="@+id/r3"
+        app:layout_constraintTop_toBottomOf="@+id/r3" />
+
+    <EditText
+        android:id="@+id/r5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="11dp"
+        android:layout_marginRight="11dp"
+        android:gravity="center"
+        android:hint="Componenta 5"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toStartOf="@+id/r9"
+        app:layout_constraintStart_toEndOf="@+id/r1"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+    <EditText
+        android:id="@+id/r1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="23dp"
+        android:layout_marginRight="23dp"
+        android:gravity="center"
+        android:hint="Componenta 1"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toStartOf="@+id/r5"
+        app:layout_constraintHorizontal_chainStyle="spread_inside"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+    <EditText
+        android:id="@+id/r2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="34dp"
+        android:gravity="center"
+        android:hint="Componenta 2"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        app:layout_constraintStart_toStartOf="@+id/r1"
+        app:layout_constraintTop_toTopOf="@+id/r1" />
+
+
+    <EditText
+        android:id="@+id/r13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:gravity="center"
+        android:hint="Componenta 13"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/r9"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+    <EditText
+        android:id="@+id/r12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="9dp"
+        android:gravity="center"
+        android:hint="Componenta 12"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toTopOf="@+id/img_full"
+        app:layout_constraintStart_toStartOf="@+id/r11" />
+
+    <EditText
+        android:id="@+id/r11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="Componenta 11"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        app:layout_constraintStart_toStartOf="@+id/r10"
+        app:layout_constraintTop_toBottomOf="@+id/r10" />
+
+    <EditText
+        android:id="@+id/r10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="Componenta 10"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        app:layout_constraintStart_toStartOf="@+id/r9"
+        app:layout_constraintTop_toBottomOf="@+id/r9" />
+
+    <EditText
+        android:id="@+id/r9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:gravity="center"
+        android:hint="Componenta .9"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toStartOf="@+id/r13"
+        app:layout_constraintStart_toEndOf="@+id/r5"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+    <EditText
+        android:id="@+id/r8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="9dp"
+        android:gravity="center"
+        android:hint="Componenta 8"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toTopOf="@+id/img_full"
+        app:layout_constraintStart_toStartOf="@+id/r7" />
+
+    <EditText
+        android:id="@+id/r7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="Componenta 1"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        app:layout_constraintStart_toStartOf="@+id/r6"
+        app:layout_constraintTop_toBottomOf="@+id/r6" />
+
+    <EditText
+        android:id="@+id/r6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="Componenta 6"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        app:layout_constraintStart_toStartOf="@+id/r5"
+        app:layout_constraintTop_toBottomOf="@+id/r5" />
+
+    <EditText
+        android:id="@+id/r3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="34dp"
+        android:gravity="center"
+        android:hint="Componenta 3"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        app:layout_constraintStart_toStartOf="@+id/r2"
+        app:layout_constraintTop_toTopOf="@+id/r2" />
+
+
+    <Button
+        android:id="@+id/btn_check"
+        android:layout_width="84dp"
+        android:layout_height="82dp"
+        android:layout_marginBottom="29dp"
+        android:background="@drawable/ic_baseline_check_circle_24"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="93dp"
+        android:layout_height="32dp"
+        android:gravity="center"
+        android:text="Check"
+        android:textColor="@android:color/black"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_check"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_check" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

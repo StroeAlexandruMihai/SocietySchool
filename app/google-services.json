@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "555472028291",
+    "firebase_url": "https://societyschool-d15ee-default-rtdb.firebaseio.com",
+    "project_id": "societyschool-d15ee",
+    "storage_bucket": "societyschool-d15ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555472028291:android:66d58b2e290516aa9a91b6",
+        "android_client_info": {
+          "package_name": "com.example.societyschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555472028291-vt8r99qckemkj14k5g1e86v5oc9spovn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADj4HVXXHqXqIJXjPu4rXRKSFTGLyyz44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555472028291-vt8r99qckemkj14k5g1e86v5oc9spovn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

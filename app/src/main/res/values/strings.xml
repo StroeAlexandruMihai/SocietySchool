@@ -1,0 +1,188 @@
+<resources>
+    <string name="app_name">Society\nSchool</string>
+    <string name="mate1">
+        <b><i>\t\t„Matematica este limba cu care Dumnezeu a scris Universul.” </i>– Galileo  Galilei</b>
+        \n\n\t\tMatematica este în general definită ca știința ce studiază relațiile cantitative, modelele de structură, de schimbare și de spațiu.
+        \t\tÎn sens modern, matematica este investigarea structurilor abstracte definite în mod axiomatic folosind logica formală.\n\n
+\t\tStructurile anume investigate de matematică își au deseori rădăcinile în științele naturale, cel mai adesea în fizică. Matematica definește și investighează și structuri și teorii proprii, în special pentru a sintetiza și unifica multiple câmpuri matematice sub o teorie unică, o metodă ce facilitează în general metode generice de calcul.
+
+        \n\n\t\tAproape toate stiințele folosesc ȋntr-o măsură mai mică sau mai mare matematica. Ȋn primul rȃnd științele așa numite "exacte", dintre care amintim: mecanica, astronomia, fizica, chimia, chiar și matematica, ȋși exprimă legile prin formule și ȋși dezvoltă teoriile folosind pe scară largă aparatul matematic.
+        \n\n\t\tDin acest motiv, nevoile acestor științe exacte au avut o influență directă și hotărȃtoare asupra dezvoltării matematicii. Ȋn alte științe, ca de exemplu ȋn biologie, matematica deși nu are un rol atȃt de important, ȋși găsește totuși aplicații ȋnsemnate ȋn studiul unor fenomene biologice; ȋn astfel de cazuri aplicarea matematicii are sens numai dacă este ȋmbinată cu o  teorie profundă a fenomenului pe care ȋl va descrie apoi, sub forma unui model matematic.
+        \n\n\t\tObservăm că, mai mult sau mai puțin, matematica ȋși găsește aplicații aproape ȋn toate științele, ȋncepȃnd cu mecanica și ajungȃnd chiar și la literatură. Pentru ca să exemplificăm cele afirmate mai sus, consider că trebuie să amintim cȃteva exemple de aplicații deosebite ale matematicii ȋn științele exacte și ȋn tehnică și anume:
+        \n\n\t\t -  descoperirea  planetei  Neptun ȋn  1846;  astronomii  Adams  și  Leverrier,  analizȃnd neregularitățile ȋn mișcarea planetei Uranus, pe baza unor calcule matematice au ajuns la concluzia că ele  sunt determinate de  atracția unei alte planete; pe baza legilor mecanicii și a legii atracției universale,  Leverrier  a calculat coordonatele locului  unde trebuia  să se afle  această planetă, iar observatorul astronomic căruia i-au fost comunicate aceste coordonate a descoperit-o cu telescopul, locul indicat fiind precis.
+\n\t
+</string>
+    <string name="mate2">
+        \n\n\t\t -  descoperirea  undelor  electromagnetice;  fizicianul  englez  Maxwell,  studiind  și generalizȃnd legile fenomenelor electromagnetice, stabilite experimental, le-a exprimat sub forma unor  ecuații  matematice,  din  care  apoi  pe  cale  pur  matematică  a  dovedit  existența  undelor electromagnetice și faptul că ele se propagă cu viteza luminii.
+    </string>
+    <string name="mate3">
+        \n\n\t\t - descoperirea radioului are la bază rezultatele unor deducții pur matematice.
+        </string>
+    <string name="bio1">
+        \n\n\t\t - Inima sau cordul este organul reprezentativ al aparatului cardiovascular, ea fiind situată în cutia toracică, în mediastin (spațiul dintre plămâni). Are un rol vital în circulația sângelui și implicit în menținerea vieții.
+        </string>
+    <string name="bio2">
+        \n\n\t\t Inima este alcătuită din patru cavități și anume: 2 atrii și 2 ventriculi. Structura atriilor este ușor diferită de cea a ventriculilor, prezentând anumite caracteristici generale:
+sunt alcătuite dintr-un perete mult mai subțire și mai neted decât al ventriculilor;\n
+dimensiunile sunt mai reduse decât dimensiunile ventriculilor;\n
+la nivelul lor sângele ajunge prin intermediul venelor;\n
+fiecare prezintă câte un auricul stâng, respectiv drept;\n
+comunică cu ventriculii prin intermediul orificiilor atrioventriculare.\n
+\t\tStructura ventriculilor prezintă de asemenea câteva caracteristici generale proprii și anume: dimensiunile lor sunt semnificativ mai mari decât dimensiunile atriilor; pereții sunt groși, neregulați, prezintă trabecule și cordaje tendinoase.\n\n
+
+\t\tInima este un organ musculos ai cărui pereți au trei părți:\n\n
+
+\t\t\t\tmiocardul,\n
+\t\t\t\tendocardul,\n
+\t\t\t\tepicardul.\n
+        </string>
+    <string name="bio3">
+       \n\n\t\tMasajul cardiac, acesta se incepe o data cu respiratia artificiala, in raport de 2:15, adica 2 respiratii gura la gura, urmate de 15 compresii toracice.
+
+\n\n\t\tSa vedem cu se face un masaj cardiac corect. Cel mai important este sa gasim punctul pe care vom efectua compresiile toracice.
+
+\n\n\t\tVictima trebuie asezata pe spate pe un plan dur. Daca sta pe un plan moale, gen pat, nu se pot efectua compresiuni toracice eficiente. Se localizeaza punctul de compresie situat in partea inferioara a sternului.
+
+\n\n\t\tDegetul inelar merge de-a lungul rebordului costal pana la apendicele xifoid, locul de intalnire a coastelor.
+
+\n\n\t\tLa acest nivel, langa acest deget se aseaza alte doua degete, respectiv degetul mijlociu si cel aratator. Dupa aceasta, asezam podul palmei celeilalte maini, tangent la cele doua degete plasate pe piept. Aceasta este locul in care trebuie facute compresiunile toracice.
+    </string>
+    <string name="bio4">
+    Asezam cealalta mana peste cea situata pe stern, fara ca degetele sa se sprijine pe torace.
+</string>
+    <string name="bio5">
+   \n\n\t\t Cu coatele întinse si bratele perpendicular pe stern, se fac compresiunile, astfel incat sa infundam sternul cu o adancime de aproximativ 4-5 cm.
+
+\n\n\t\tLinia umerilor trebuie sa fie paralela cu linia longitudinala a pacientului. Frecventa compresiunilor externe trebuie sa fie de 100/min.
+</string>
+    <string name="bio6">
+
+    \n\n\t\tPentru a efectua manevra corect si a economisi energie, ingenunchiati aproape de pacient si aplecati-va inainte, cu mainile deasupra pacientului, tineti spatele drept si coatele intinse, astfel incat la aplicarea fortei sa folositi si greutatea corpului, nu numai musculature bratelor.
+
+\n\n\t\tDupa 30 de compresiuni, efectuati 2 ventilatii artificiale,apoi reluati compresiunile. Resuscitarea cardio pulmunora continua pana la aparitiei respiratiei sau pana la venirea echipajului medical.
+</string>
+    <string name="isto1">
+
+      \n\n\t\t  Constituția României este legea fundamentală a statului român care reglementează, printre altele, principiile generale de organizare a statului, drepturile, libertățile și îndatoririle fundamentale ale cetățenilor și autoritățile publice fundamentale. Actuala Constituție a României a fost adoptată în ședința Adunării Constituante din 21 noiembrie 1991 și a intrat în vigoare în urma aprobării ei prin referendumul național din 8 decembrie 1991.
+    </string>
+    <string name="isto2">
+      \n\n\t\t  Drepturile omului sunt "de obicei înțelese ca drepturi inalienabile fundamentale la care o persoană are în mod inerent dreptul pur și simplu pentru că el sau ea este o ființă umană."[1] Drepturile omului sunt astfel considerate ca fiind universale (se aplică peste tot) și egalitare (aceleași pentru toți).
+        \n\n\t\t Multe dintre ideile de bază care au animat mișcarea s-au dezvoltat în urma celui de Al Doilea Război Mondial și a atrocităților Holocaustului, culminând cu adoptarea Declarației Universale a Drepturilor Omului din Paris de către Adunarea Generală a Națiunilor Unite în 1948.
+    </string>
+    <string name="eco1">
+
+      \n\n\t\t  Un angajator pe care îl interesează să angajeze oameni de înaltă calitate va citi CV-ul tău de mai multe ori, după care abilitățile tale de interviu sunt necesare să  îl convingă pe angajator că ceea ce este cuprins în CV-ul tău este adevărat, dar nu este cuprins tot. CV-ul este prima impresie făcută angajatorului, astfel - cu cât este mai bine scris un CV, cu atât mai ușor va fi interviul.
+
+ \n\n\t\tCV - CV-ul reprezintă primul contact între tine și un potențial angajator. Pe baza CV-ului, angajatorul își face o primă impresie asupra ta și din acest motiv, numai CV-ul făcut fără nici un defect va putea să  promoveze într-un mod corespunzător experiențele și cunoștințele pe care le-ai dobândit.  Dată fiind importanța unui CV, se recomandă o pregătire temeinică a acestuia.
+ </string>
+    <string name="fiz1">
+
+      \n\n\t\t   Curеntul electric reprezintă deplasarea dirijată a sarcinilor electrice. Există două mărimi fizice care caracterizează un curent electric:
+
+\n\n\t\tintensitatea curentului electric, numită adesea simplu tot curent electric, care caracterizează global curentul, referindu-se la cantitatea de sarcină electrică ce străbate secțiunea considerată în unitatea de timp. Se măsoară în amperi.
+\n\n\t\tdensitatea de curent este o mărime vectorială asociată fiecărui punct, intensitatea curentului regăsindu-se ca integrală pe întreaga secțiune a conductorului din densitatea de curent. Se măsoară în amperi pe metru pătrat.
+
+    </string>
+    <string name="fiz2">
+
+      \n\n\t\t   Un motor electric (sau electromotor) este un dispozitiv electromecanic ce transformă energia electrică în energie mecanică. Transformarea în sens invers, a energiei mecanice în energie electrică, este realizată de un generator electric. Nu există diferențe de principiu semnificative între cele două tipuri de mașini electrice, același dispozitiv putând îndeplini ambele roluri în situații și scheme de conectare diferite.
+    </string>
+    <string name="g1">
+
+      \n\n\t\t   Încălzirea globală este fenomenul de creștere continuă a temperaturilor medii înregistrate ale atmosferei în imediata apropiere a solului, precum și a apei oceanelor, constatată în ultimele două secole, dar mai ales în ultimele decenii. Fenomene de încălzire globală au existat dintotdeauna în istoria Pământului, ele fiind asociate cu fenomenul cosmic de maximum solar, acestea alternând cu mici glaciațiuni terestre asociate cu fenomenul de minimum solar.
+    </string>
+    <string name="info1">
+
+      \n\n\t\t  Pentru imbunatatirea performantelor obtinute si inglobarea de
+concepte ale inteligentei artificiale, aparatura medicala este condusa
+de calculatoare, integrate in sistem. Sistemul preia direct de la
+pacient (on-line) date, le prelucreza le interpreteaza si ofera rezultate.
+Achizitie si prelucrare de semnale: ECG, EEG, EMG, termometru,
+determinari ale probelor ventilatorii.\n\n\t\tAchizitie si prelucrare de imagini: ecografie, tomografie, radiologie.
+Monitorizarea electronica a pacientilor: urmarirea marimii
+parametrilor fiziologici, alarmarea si interventia automata
+(stimulatoare cardiace, apate pt. diabetici).   </string>
+    <string name="info2">
+
+      \n\n\t\t  Pacientul este caracterizat de un sir de simptome (evidentiate prin
+intrebari, semne fizice, determinari de laborator, masurari cu
+aparatura de specialitate) alcatuind un vector de observatie.
+Exista stabilit cate un vector etalon atat pentru pacientul sanatos cat
+si pentru fiecare afectiune in parte.
+Pentru stabilirea unui diagnostic se face compararea (probabilistica
+sau fuzzy) cu vectorii etalon.
+ \n\n\t\t Diagnosticarea asistata de calculator. Se realizeaza prin cooperarea
+intre calculator si medic (care alege din lista de afectiuni oferita de
+calculator)
+ \n\n\t\t Sistemul expert. Presupune existenta unui sistem automat de
+comparare si a unui set (respectabil ca dimensiuni) de pacienti
+diagnosticati (baza de cunostiinte). Fiecare noua diagnosticare este
+adaugata in baza de cunostiinte.  </string>
+    <string name="sport">
+
+      \n\n\t\t Importanța efortului fizic nu poate fi fi descrisă dar în câteva cuvinte. Este un subiect destul de amplu care necesită destul
+        de multă atenție din partea nostra. În societatea de astăzi care se îndreaptă spre un stil de viață mai sedentar, există o nevoie mai mare că oricând să crească nivelul zilnic de activitate pentru a menține atât capacitatea cardiovasculară, cât și greutatea corporală.
+    </string>
+
+
+    <string name="chimie">
+
+      \n\n\t\t Combustibilii nucleari sunt materiale care fisionează sau fuzionează, producând energie nucleară. Sintagma combustibil nuclear este folosită în analogie cu combustibilii fosili, deși nu suferă procese de combustie, ci de fisiune sau fuziune nucleară. Combustibilii nucleari utilizați în reactorii nucleari conțin izotopi fisili (susceptibili să sufere reacții de fisiune nucleară). Similar, combustibilii nucleari de fuziune vor suferi reacții de fuziune nucleară.
+
+    </string>
+
+
+    <string name="def_inima">
+        \n\n\t\tInima este un organ musculos şi cavitar, de mărimea pumnului drept, care cântăreşte aproximativ 300 grame.
+        \n  Este situată în cutia toracică, în spatele sternului, între cei doi plămâni.
+        \n Vârful său, îndreptat spre stânga, se sprijină de diafragmă.
+        \n\n\t\tInima este învelită de un sac cu pereţi dubli, numit pericard. Înlăturând pericardul, la suprafaţa muşchiului inimii, numit miocard, se observă vasele de sânge care au rol în hrănirea acestui organ. Ele se numesc vase coronare.
+    </string>
+
+    <string name="alc_inima">\n\n\t\tÎn secţiune longitudinală, se observă următoarele:
+
+\n\n– Atriul drept şi atriul stâng sunt separate prin peretele interatrial.
+
+\n\n– Cele două vetricule, drept şi stâng, sunt separate prin peretele interventricular.
+
+\n\n– Partea dreaptă şi partea stângă a inimii nu comunică între ele.
+
+\n\n– Între atriile şi ventriculele de pe aceeaşi parte se află câte un orificiu prevăzut cu nişte formaţiuni, numite valvule, care se deschid sau se închid astupând orificiile dintre atrii şi ventricule. Dispoziţia valvulelor permite trecerea sângelui numai din atrii în ventricule; datorită lor, nu există posibilitatea de întoarcere a sângelui în atrii.
+
+\n\n– Muşchiul ventriculului stâng este mai dezvoltat.
+
+\n\n– Artera aortă pleacă din ventriculul stâng, iar artera pulmonară din ventriculul drept.
+
+\n\n– Venele cave se deschid în atriul drept, iar venele pulmonare în atriul stâng.
+
+\n\n– La baza aortei, cât şi la baza arterei pulmonare se află trei valvule, în formă de cuib de rândunică. Ele permit trecerea sângelui numai din ventricule în artere şi nu invers
+        .</string>
+    
+    
+    <string name="vasele_sangvine">
+        Vasele sangvine
+\n\nVasele sangvine alcătuiesc un sistem de tuburi prin care circulă sângele. După structura şi funcţiile pe care le îndeplinesc, deosebim trei tipuri de vase sangvine: artere, capilare şi vene.
+    </string>
+
+    <string name="arterele">
+        Arterele
+        \n\n\t\tArterele sunt vase care pornesc din ventricule, ducând sângele către ţesuturi. Ele se ramifică în vase din ce în ce mai mici: artere mari, mijlocii şi mici (arteriole). Peretele arterelor este elastic, de aceea o arteră secţionată rămâne deschisă.
+\n\n\t\tCele mai importante artere sunt: artera aortă, care pleacă din ventriculul stâng, se curbează formând cârja aortică, după care coboară spre partea inferioară a corpului; din ea se desprind arterele care se ramifică în corp; artera pulmonară, care pleacă din ventriculul drept şi conduce sângele la plămâni. Arteriolele se ramifică, la rândul lor, în vase foarte subţiri, numite capilare.
+</string>
+
+    <string name="capilare">
+        Capilarele
+\n\n\t\tCapilarele, vase cu diametrul mai mic (6-30 µm), fac legătura dintre reţeaua arterială şi cea venoasă. Perete lor este format dintr-un singur strat de celule. În capilare, care împânzesc organele ca o reţea fină, circulaţia sângelui este mai lentă decât în artere, ceea ce permite schimbul de substanţe între sânge şi ţesuturi.
+    </string>
+
+    <string name="venele">
+        Venele
+\n\n\t\tVenele sunt vase care se deschid la nivelul atriilor, aducând sângele de la ţesuturi. Peretele venelor conţine foarte puţine fibre elastice. De aceea, o venă secţionată rămâne moale şi închisă. Majoritatea venelor situate sub inimă prezintă pe pereţii lor valvule în formă de cuib, care înlesnesc urcarea sângelui spre cutia toracică.
+
+\n\n\t\tCele mai importante vene sunt vena cavă inferioară şi vena cavă superioară, care se deschid în atriul drept, şi venele pulmonare, care conduc în atriul stâng sângele venit de la plămâni.
+
+
+    </string>
+
+
+</resources>
